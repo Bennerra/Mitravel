@@ -232,13 +232,13 @@ body._lock {
 }
 
 .social__link--fb{
-	background-image: url(/img/fb.svg);
+	background-image: url(../img/fb.svg);
 	width: 11px;
 	height: 20px;
 }
 
 .social__link--tw{
-	background-image: url(/img/tw.svg);
+	background-image: url(../img/tw.svg);
 	width: 20px;
 	height: 17px;
 }
@@ -335,7 +335,7 @@ body._lock {
 .first{
 	height: 100vh;
 	min-height: 660px;
-	background-image: url(/img/first-bg.jpg);
+	background-image: url(../img/first-bg.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -418,7 +418,7 @@ body._lock {
 	border: none;
 	width: 18px;
 	height: 18px;
-	background-image: url(/img/search.svg);
+	background-image: url(../img/search.svg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -454,7 +454,7 @@ body._lock {
 	position: absolute;
 	left: 50%;
 	top: 50%;
-	background-image: url(/img/play-icon.svg);
+	background-image: url(../img/play-icon.svg);
 	width: 32px;
 	height: 41px;
 	background-position: center;
@@ -489,10 +489,10 @@ body._lock {
 .btn-left {
 	right: 90%;
 	bottom: 14%;
-	background-image: url(/img/arrow-left.svg);
+	background-image: url(../img/arrow-left.svg);
 }
 .btn-right {
-	background-image: url(/img/arrow-right.svg);
+	background-image: url(../img/arrow-right.svg);
 }
 
 @media (max-height: 1079px) {
